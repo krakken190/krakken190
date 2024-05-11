@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **prajwaldongre404@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/167rA41tqDYnrRbNUidV4ATsZUFjbik1a/view?usp=sharing](https://drive.google.com/file/d/167rA41tqDYnrRbNUidV4ATsZUFjbik1a/view?usp=sharing)
+- 📄 Know about my experiences [![image](https://github.com/krakken190/krakken190/assets/72223902/20b7ab79-9d20-4277-9161-b34819659252)
+](![image](https://github.com/krakken190/krakken190/assets/72223902/da739aae-31d9-46e9-bd49-4f0a7a281895)
+)
 
 - ⚡ Fun fact **I dream in algorithms and wake up with data-driven ideas 💭📈**
 
