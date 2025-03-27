@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prajwaldongre404@gmail.com**
 
-- My Resume: https://drive.google.com/file/d/1Uobe5ZmjtZySImoNhc7mhQzmJdKVAaFB/view?usp=sharing
+- My Resume: [https://drive.google.com/file/d/1Uobe5ZmjtZySImoNhc7mhQzmJdKVAaFB/view?usp=sharing](https://drive.google.com/file/d/148PB5xX7H5B_kcEmS1qgV2yQ4fq2mtWH/view?usp=sharing)
 
 - ⚡ Fun fact **I dream in algorithms and wake up with data-driven ideas 💭📈**
 
