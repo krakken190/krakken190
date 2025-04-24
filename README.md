@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krakken190&label=Profile%20views&color=0e75b6&style=flat" alt="krakken190" /> </p>
 
-- 🔭 I’m currently working on **Credit based fraud detection model**
+- 🔭 I’m currently working on **AI Agents Framework like Blockchain**
 
-- 🌱 I’m currently learning **OpenCV, AI**
-
-- 👯 I’m looking to collaborate on **Projects related to Analysis, reserch based, Data Science**
+- 👯 I’m looking to collaborate on **Projects related to Analysis, reserch based, Data Science, ML, AI**
 
 - 💬 Ask me about **Python, Data Analysis, SQL, Data Science, NLP, Machine Learning,**
 
