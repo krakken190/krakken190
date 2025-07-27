@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)](https://prajwal_dongre.io)
 <h1 align="center">Hi 👋, I'm Prajwal Dongre</h1>
-<h3 align="center">A passionate Data Analyst/ Scientist/ Machine learning geek</h3>
+<h3 align="center">A passionate ML engineer/ GenAI developer/ AI engineer</h3>
 <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krakken190&label=Profile%20views&color=0e75b6&style=flat" alt="krakken190" /> </p>
